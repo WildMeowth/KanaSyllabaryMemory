@@ -146,7 +146,7 @@ export class MainComponent implements OnInit {
   }
 
   goGitHub(){
-    window.location.href = "https://github.com/kidynecat/KanaSyllabaryMemory"
+    window.location.href = "https://github.com/WildMeowth/KanaSyllabaryMemory"
   }
 
   playsound(id:string){

@@ -2,9 +2,14 @@
 ## 简介
 
 用于记忆五十音的卡片小程序
-可访问 [https://kidynecat.github.io/KanaSyllabaryMemory](https://kidynecat.github.io/KanaSyllabaryMemory) 直接使用
+可访问 [https://www.wildmeowth.com/KanaSyllabaryMemory/](https://wildmeowth.github.io/KanaSyllabaryMemory) 直接使用
 
 ## 更新日志
+v1.3
+修复转发分享页面404的问题
+
+-------以下内容及更新来自[kidynecat](https://github.com/kidynecat/KanaSyllabaryMemory)
+
 v1.2
 增加平假名片假名对应训练
 修改readme格式
